@@ -5,4 +5,4 @@
 
 # Screenshot
 
-<img scr="https://github.com/QERR0R/MyWM/blob/master/images/screenshot.png">
+<img src="https://github.com/QERR0R/MyWM/blob/master/images/screenshot.png">
