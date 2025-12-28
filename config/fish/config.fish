@@ -12,6 +12,5 @@ function set_wallpaper
     sh /home/quantum/.config/suckless/pywal.sh
 end
 
-alias screen-single='xrandr --output HDMI1 --off'
-alias screen-duplicate='xrandr --output HDMI1 --auto --same-as eDP1'
-alias screen-extend='xrandr --output HDMI1 --auto --right-of eDP1'
+# For Git Commit by PGP
+set -x GPG_TTY (tty)
